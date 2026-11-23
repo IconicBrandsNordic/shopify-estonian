@@ -1,0 +1,30 @@
+# Horizon 4.5.0: keys without Estonian
+
+- `accessibility.link_to_article`: Article: {{ title }}
+- `accessibility.link_to_blog`: Blog: {{ title }}
+- `accessibility.link_to_catalog`: All products
+- `accessibility.link_to_collection`: Collection: {{ title }}
+- `accessibility.link_to_collections`: All collections
+- `accessibility.link_to_home`: Home
+- `accessibility.link_to_page`: Page: {{ title }}
+- `accessibility.link_to_policy`: Policy: {{ title }}
+- `accessibility.link_to_product`: Product: {{ title }}
+- `content.duties_and_taxes_included_shipping_at_checkout_with_policy_with_fees_html`: Duties and taxes included. Discounts, fees and <a href="{{ link }}">shipping</a> calculated at checkout.
+- `content.duties_and_taxes_included_shipping_at_checkout_with_policy_without_discounts_with_fees_html`: Duties and taxes included. Fees and shipping calculated at checkout.
+- `content.duties_and_taxes_included_shipping_at_checkout_without_policy_with_fees`: Duties and taxes included. Discounts, fees and shipping calculated at checkout.
+- `content.duties_and_taxes_included_shipping_at_checkout_without_policy_without_discounts_with_fees`: Duties and taxes included. Fees and shipping calculated at checkout.
+- `content.duties_included_taxes_at_checkout_shipping_at_checkout_with_policy_with_fees_html`: Duties included. Taxes, discounts, fees and <a href="{{ link }}">shipping</a> calculated at checkout.
+- `content.duties_included_taxes_at_checkout_shipping_at_checkout_with_policy_without_discounts_with_fees_html`: Duties included. Fees and shipping calculated at checkout.
+- `content.duties_included_taxes_at_checkout_shipping_at_checkout_without_policy_with_fees`: Duties included. Taxes, discounts, fees and shipping calculated at checkout.
+- `content.duties_included_taxes_at_checkout_shipping_at_checkout_without_policy_without_discounts_with_fees`: Duties included. Fees and shipping calculated at checkout.
+- `content.in_store_also_available`: Also sold in store — you can buy this here in person
+- `content.in_store_available`: In stock in store
+- `content.in_store_available_at_html`: In stock at <b>{{ location }}</b>
+- `content.in_store_only`: Buy in person at this store. Pickup isn't offered here.
+- `content.taxes_at_checkout_shipping_at_checkout_with_policy_with_fees_html`: Taxes, discounts, fees and <a href="{{ link }}">shipping</a> calculated at checkout.
+- `content.taxes_at_checkout_shipping_at_checkout_with_policy_without_discounts_with_fees_html`: Taxes, fees and <a href="{{ link }}">shipping</a> calculated at checkout.
+- `content.taxes_at_checkout_shipping_at_checkout_without_policy_with_fees`: Taxes, discounts, fees and shipping calculated at checkout.
+- `content.taxes_at_checkout_shipping_at_checkout_without_policy_without_discounts_with_fees`: Taxes, fees and shipping calculated at checkout.
+- `content.taxes_included_shipping_at_checkout_with_policy_with_fees_html`: Taxes included. Discounts, fees and <a href="{{ link }}">shipping</a> calculated at checkout.
+- `content.taxes_included_shipping_at_checkout_without_policy_with_fees`: Taxes included. Discounts, fees and shipping calculated at checkout.
+- `gift_cards.issued.expiration_date_html`: Expires <bdi>{{ expires_on }}</bdi>
